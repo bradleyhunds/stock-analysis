@@ -1,0 +1,26 @@
+# stock-analysis
+Challenge 2 Analysis
+
+
+Project Overview
+
+The purpose of this analysis was to help our friend Steve compare different green stock tickers based on volume, price, and return.
+We want to organize the data in a clean way that allows us to easily read these different stock metrics so that we can make informed decisions to help Steve's parents
+
+
+
+Results
+The tickers that we selected had a much higher average return in 2017 than in 2018. ENPH and RUN were positive both years
+
+
+
+Summary
+Advantages of Refactoring
+>Refactoring could save time
+>Objective is to improve code quality
+>Able to find bugs in the code
+
+Disadvantages of Refactoring
+>May take too much time
+>May just be easier to write the code from scratch
+>Could break the code
